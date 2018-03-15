@@ -3,10 +3,6 @@
 
 **老骥伏枥** 是以 `inspinia_admin-v2.7` 、`Spring Boot 2.0` 为基础开发框架，并附带了一个代码自动生成工具的快速开发原型。已实现页面如下：
 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e26058d9f34214656764fd0b60a43dcec23678980bd348495d41e5ac3b7b3ad0"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="老骥伏枥" title="老骥伏枥"></a>
-
-![欢迎加入聊天群.png](https://github.com/laojifuli/lj/blob/master/demos/qq.png?raw=true)
-
 
 ## 列表页面.png
 
@@ -37,3 +33,9 @@
 ## 开发管理-查看代码
 
 ![7-开发-查看代码.png](https://github.com/laojifuli/lj/blob/master/demos/7-开发-查看代码.png?raw=true)
+
+
+欢迎加入`老骥伏枥`群，获取相应资料。
+
+
+![欢迎加入聊天群.png](https://github.com/laojifuli/lj/blob/master/demos/qq.png?raw=true)
