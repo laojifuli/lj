@@ -4,7 +4,7 @@
 **老骥伏枥** 是以 `inspinia_admin-v2.7` 、`Spring Boot 2.0` 为基础开发框架，并附带了一个代码自动生成工具的快速开发原型。已实现页面如下：
 
 
-## 列表页面.png
+## 列表页面
 
 ![1-列表页面.png](https://github.com/laojifuli/lj/blob/master/demos/1-列表页面.png?raw=true)
 
