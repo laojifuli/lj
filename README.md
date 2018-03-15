@@ -5,8 +5,7 @@
 
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e26058d9f34214656764fd0b60a43dcec23678980bd348495d41e5ac3b7b3ad0"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="老骥伏枥" title="老骥伏枥"></a>
 
-
-![1-列表页面.png](https://github.com/laojifuli/lj/blob/master/demos/qq.png?raw=true)
+![欢迎加入聊天群.png](https://github.com/laojifuli/lj/blob/master/demos/qq.png?raw=true)
 
 
 ## 列表页面.png
